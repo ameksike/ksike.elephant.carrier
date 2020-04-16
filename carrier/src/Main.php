@@ -5,7 +5,7 @@
  * @version: 0.1
  * @description: This is simple and light lib for php loader class
  * @authors: ing. Antonio Membrides Espinosa
- * @mail: ameksike@gmail.com
+ * @mail: tonykssa@gmail.com
  * @created: 23/4/2011
  * @updated: 23/4/2011
  * @license: GPL v3
